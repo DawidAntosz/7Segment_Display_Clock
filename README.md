@@ -1,5 +1,5 @@
 # Clock on 7-segment display LED
-Project of a watch built on seven-segment displays
+Project of a watch built on seven-segment displays using DS1307 serial RTC.
 
 
 ### Schematic first board - display
