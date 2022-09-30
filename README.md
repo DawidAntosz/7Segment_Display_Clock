@@ -17,7 +17,7 @@ Project of a watch built on seven-segment displays using DS1307 serial RTC.
 
 ### Schematic second board - Atmega328p-pu
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64035334/184558266-62813d5e-2800-47b7-9949-e3a5317f82f2.png" />
+  <img src="" />
 </p>
 
 
