@@ -16,18 +16,11 @@ Project of a watch built on seven-segment displays using DS1307 serial RTC.
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/64035334/207265761-430660c3-486c-4750-b449-0832adcb6867.png" width="390" /> 
+<img src="https://user-images.githubusercontent.com/64035334/207265761-430660c3-486c-4750-b449-0832adcb6867.png" width="4300" /> 
 <img src="https://user-images.githubusercontent.com/64035334/207265714-403169b8-97d6-47a9-961d-cb809c91139e.png" width="430" />
-<img src="https://user-images.githubusercontent.com/64035334/207266001-b9a8a29e-795e-406c-ac90-51ceb02f5aa0.png" height = "300" /> 
+<img src="https://user-images.githubusercontent.com/64035334/207266001-b9a8a29e-795e-406c-ac90-51ceb02f5aa0.png" height = "400" /> 
 
 </p>
-
-
-
-![image](https://user-images.githubusercontent.com/64035334/207265761-430660c3-486c-4750-b449-0832adcb6867.png)
-![image](https://user-images.githubusercontent.com/64035334/207265714-403169b8-97d6-47a9-961d-cb809c91139e.png)
-![image](https://user-images.githubusercontent.com/64035334/207265812-0607d158-c245-40b5-9b1a-5d0ea4ed36b4.png)
-![image](https://user-images.githubusercontent.com/64035334/207266001-b9a8a29e-795e-406c-ac90-51ceb02f5aa0.png)
 
 
 
