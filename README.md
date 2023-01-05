@@ -39,7 +39,10 @@ Project of a watch built on seven-segment displays using DS1307 serial RTC.
 </p>
 
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64035334/210881028-d40a52fa-8707-4ae2-a897-5bf7bdbf5401.jpg" /> 
 
+</p>
 
 
 
