@@ -49,6 +49,15 @@ Project of a watch built on seven-segment displays using DS1307 serial RTC.
 <img src="https://user-images.githubusercontent.com/64035334/214227397-7b039e9c-ac05-496e-af27-afe3c7ef8fe0.jpg" width="600" /> 
 </p>
 
+# Program:
+
+## MAX7219:
+
+communication via SPI,
+<p align="center">
+![image](https://user-images.githubusercontent.com/64035334/214368843-cd3c8615-da3c-43d6-9ec2-3b1b50546827.png)
+![image](https://user-images.githubusercontent.com/64035334/214369046-f5e609af-61c3-478e-bf77-c136767d7245.png)
+</p>
 
 
 
