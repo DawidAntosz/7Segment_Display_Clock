@@ -55,11 +55,14 @@ Project of a watch built on seven-segment displays using DS1307 serial RTC.
 
 communication via SPI,
 <p align="center">
-<img src="https://user-images.githubusercontent.com/64035334/214368843-cd3c8615-da3c-43d6-9ec2-3b1b50546827.png" width="600" /> 
-<img src="https://user-images.githubusercontent.com/64035334/214369046-f5e609af-61c3-478e-bf77-c136767d7245.png" width="600" /> 
+<img src="https://user-images.githubusercontent.com/64035334/214368843-cd3c8615-da3c-43d6-9ec2-3b1b50546827.png" " /> 
 </p>
-
-
+D0 - D7 set led 
+D11-D10 addres of single digit
+                                                                                                                  
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64035334/214369046-f5e609af-61c3-478e-bf77-c136767d7245.png" " /> 
+</p>
 
 
 
