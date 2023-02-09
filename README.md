@@ -73,4 +73,7 @@ Data format communication I2C
 <p align="center">
 <img src="https://user-images.githubusercontent.com/64035334/217756307-3467a691-80b5-49f3-9d42-1f1c0bd24b91.png" " /> 
 <img src="https://user-images.githubusercontent.com/64035334/217759509-43fc8ddc-53f0-4072-85f0-b2b6fdc08c99.png" " /> 
+![image](https://user-images.githubusercontent.com/64035334/217760035-be41251c-3220-46ba-a650-a472a01b9592.png)
+![image](https://user-images.githubusercontent.com/64035334/217760091-6417082f-b249-4cb1-a939-5a9248767146.png)
+
 </p>
