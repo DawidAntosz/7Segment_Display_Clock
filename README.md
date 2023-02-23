@@ -1,6 +1,10 @@
 # Clock on 7-segment display LED
 Project of a watch built on seven-segment displays using DS1307 serial RTC.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/64035334/220825995-58353248-7b1d-4539-8323-0319cb96e4bf.jpg" />
+</p>
+
 
 ### Atmega pins overview:
 <p align="center">
