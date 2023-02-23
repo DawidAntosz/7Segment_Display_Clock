@@ -1,6 +1,10 @@
 # Clock on 7-segment display LED
 Project of a watch built on seven-segment displays using DS1307 serial RTC.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/64035334/220825995-58353248-7b1d-4539-8323-0319cb96e4bf.jpg" />
+</p>
+
 
 ### Atmega pins overview:
 <p align="center">
@@ -66,6 +70,13 @@ D11-D10 addres of single digit
 
 
 
+## DS1307 
 
+Data format communication I2C
 
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64035334/217756307-3467a691-80b5-49f3-9d42-1f1c0bd24b91.png" " /> 
+<img src="https://user-images.githubusercontent.com/64035334/217759509-43fc8ddc-53f0-4072-85f0-b2b6fdc08c99.png" " /> 
+<img src="https://user-images.githubusercontent.com/64035334/217760035-be41251c-3220-46ba-a650-a472a01b9592.png" " /> 
+<img src="https://user-images.githubusercontent.com/64035334/217760091-6417082f-b249-4cb1-a939-5a9248767146.png" " /> 
+</p>
