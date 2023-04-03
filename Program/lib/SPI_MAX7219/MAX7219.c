@@ -6,7 +6,7 @@
 
 const uint8_t DIG_tab[7] = {1,5,3,4,6,2,7};
 
-const uint8_t Set_number[10] = {
+const uint8_t Set_number[12] = {
 							   0b10101111,	/* 0 */
 							   0b00001010,	/* 1 */
 							   0b10111001,	/* 2 */
@@ -81,7 +81,7 @@ void MAX7219_displayClock(uint8_t* hour, uint8_t* minute, uint8_t* second){
     tab_value[1] = *second / 10;
     tab_value[0] = *second % 10;
 
-    for(auto i = 0; i<6 ;i++){
+    for(uint8_t i = 0; i<6 ;i++){
         MAX7219_write(DIG_tab[i], Set_number[tab_value[i]]);
     }
 }

@@ -4,15 +4,14 @@
 #include <compat/twi.h>
 #include "i2c.h"
 
-
 #define F_CPU 16000000UL
 #define SCL_CLOCK  10000L
 
 
-
 void I2C_init(void){
     TWSR = 0; 
-    TWBR = (((F_CPU / SCL_CLOCK) - 16) / 2);
+	uint16_t twbr_val = ((F_CPU / SCL_CLOCK) - 16) / 2;
+    TWBR = (uint8_t)twbr_val;
 }
 
 unsigned char I2C_start(unsigned char addr){
