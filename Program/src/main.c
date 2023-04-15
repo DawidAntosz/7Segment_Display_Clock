@@ -12,6 +12,11 @@
 #include "MAX7219.h"
 #include "ds1307.h"
 
+#define B1_PIN PD5
+#define B2_PIN PD6
+#define B3_PIN PD7
+#define B4_PIN PB0
+
 #define BUZZER PB1
 
 uint8_t year = 0;
@@ -31,6 +36,17 @@ int main(void)
 {
     MAX7219_init();
     DS1307_init();
+
+    Button button_table[4] = {
+        {B1_PIN, &PIND, &DDRD, &PORTD},
+        {B2_PIN, &PIND, &DDRD, &PORTD},
+        {B3_PIN, &PIND, &DDRD, &PORTD},
+        {B4_PIN, &PINB, &DDRB, &PORTB}
+    };
+
+    Buttons_all buttons_all = {button_table, 4};
+    Buttons_all_init(&buttons_all);
+
     
     MenuItem menuItems[] = {
             {"Czas", (void *) displayClock},
